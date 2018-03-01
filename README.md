@@ -7,6 +7,7 @@
   <li>QuickSort</li>
   <li>Strongly Connected Components, i.e. Kosaraju's</li>
   <li>Dijkstra's</li>
+  <li>Median Maintenance</li>
   <li>2Sum</li>
 </ul>
   
